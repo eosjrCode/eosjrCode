@@ -17,3 +17,16 @@ About me
 🌱- I'm on track for learning more about javascript, HTML5/CSS3, node.js, java, ruby on rails, MySql.<br>
 📫- If you want to get in contact with me: eosjrcode@gmail.com or, if you prefer, send me a message in github. I try to respond quickly.<br>
 📄 -  I'm open to feedback and suggestions!
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true" />
+</picture>
