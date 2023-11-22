@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eosjrCode
-- 👀 I’m interested in javascript, HTML5/CSS3, node.js, java, ruby, MySql.
+- 👀 I’m interested in javascript, HTML5/CSS3, node.js, java, ruby on rails, MySql.
 - 🌱 I’m currently learning Javascript and TypeScript
 - 💞️ I’m looking to collaborate on any projects related on my interests.
 - 📫 How to reach me: send me a message here in github.
