@@ -2,7 +2,7 @@
 - I’m a Full Stack Developer in trainning.
 - Living in Brazil, São Paulo
 - I have bachelors degree in both information systems and soon software engineering
-- I’m currently learning Javascript and TypeScript.
+- I’m currently learning several technologies, check my profile for more information.
 - I’m looking to collaborate on any projects related on my interests.
 
 
