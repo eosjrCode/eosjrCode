@@ -1,7 +1,7 @@
 - Hello, I'm Junior and I'm living in Brazil, São Paulo
 - I’m a Full Stack Developer in trainning.
 - I have bachelors degree in both in information systems and soon software engineering
-- 🌱 I’m currently learning Javascript and TypeScript.
+- I’m currently learning Javascript and TypeScript.
 - I’m looking to collaborate on any projects related on my interests.
 
 
