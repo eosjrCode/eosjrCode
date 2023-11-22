@@ -19,14 +19,5 @@ About me
 📄 -  I'm open to feedback and suggestions!
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eosjrcode&show_icons=true" />
-</picture>
+![eosjrcode's Stats](https://github-readme-stats.vercel.app/api?username=eosjrcode&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![eosjrcode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eosjrcode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
