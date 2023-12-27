@@ -15,7 +15,7 @@ About me
 
 📄- I am a big enthusiastic in clean and organized codes.<br>
 🎓- I have a bachelors degree in Information Systems and currently i'm upgrading to Software Engineering.<br>
-🌱- I'm on track for learning more about javascript, HTML5/CSS3, node.js, java, ruby on rails, MySql.<br>
+🌱- I'm on track for learning more about javascript, HTML5/CSS3, node.js, java, express, react.js, redux.<br>
 📫- If you want to get in contact with me: eosjrcode@gmail.com or, if you prefer, send me a message in github. I try to respond quickly.<br>
 
 
